@@ -40,6 +40,6 @@ How does sales performance vary by region?
 What is the total sales, quantity sold, and average sales value?
 How can users interactively filter data by Region, Category, and Segment to uncover insights?
 
-screenshots
+sales dashboard
 https://github.com/Achalaankam/Sales-Performance-Dashboard-/blob/main/snapshot%20of%20Sales%20Performance%20Dashboard.jpeg
 
